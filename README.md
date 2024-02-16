@@ -21,12 +21,12 @@ Este recurso analisa as imagens em busca de características específicas, como 
 ![Screenshot 2024-02-15 235028](https://github.com/DaianeLinhares/AI-VISION-Service-DIO/assets/91790650/45bbaeda-7592-42f8-9ceb-3d3715b5953c)
 
 
-Além das descrições acima, os resultados de cada funcionalidade também são fornecidos em formato JSON para fácil integração com outros sistemas.
+ Além das descrições acima, os resultados de cada funcionalidade também são fornecidos em formato JSON para fácil integração com outros sistemas.
 
-Na própria plataforma, abaixo dos resultados das funcionalidades de detecção e análise de imagens, você encontrará a seção "Next Steps", que oferece orientações adicionais.
+ Na própria plataforma, abaixo dos resultados das funcionalidades de detecção e análise de imagens, você encontrará a seção "Next Steps", que oferece orientações adicionais.
 ![image](https://github.com/DaianeLinhares/AI-VISION-Service-DIO/assets/91790650/eeb0acb3-76c1-4a94-b39c-0b3703f1055b)
 
-Links
-https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
-https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html
-Analyze images in Vision Studio
+### Links  
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html  
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html  
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
